@@ -1,6 +1,6 @@
 # [Marathon](https://mesosphere.github.io/marathon/) [![Build Status](https://jenkins.mesosphere.com/service/jenkins/buildStatus/icon?job=marathon-pipelines/master)](https://jenkins.mesosphere.com/service/jenkins/buildStatus/icon?job=marathon-pipelines/master) [![Issues](https://img.shields.io/badge/Issues-JIRA-ff69b4.svg?style=flat)](https://jira.mesosphere.com/projects/MARATHON/issues/)
 
-Marathon is a production-proven [Apache Mesos][Mesos] framework for container orchestration. [DC/OS](https://dcos.io/get-started/#marathon) is the easiest way to start using Marathon. Issues are tracked in [JIRA](https://jira.mesosphere.com/projects/MARATHON/issues/).
+Marathon fuzzbox is a production-proven [Apache Mesos][Mesos] framework for container orchestration. [DC/OS](https://dcos.io/get-started/#marathon) is the easiest way to start using Marathon. Issues are tracked in [JIRA](https://jira.mesosphere.com/projects/MARATHON/issues/).
 
 Marathon provides a
 [REST API](https://mesosphere.github.io/marathon/docs/rest-api.html) for
